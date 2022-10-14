@@ -1,0 +1,7 @@
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\TestApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\TestApplication\bin\Debug\OutbreakManager.dll
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\TestApplication\bin\Debug\OutbreakManager.pdb
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\TestApplication\obj\x86\Debug\TestApplication.exe
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\TestApplication\obj\x86\Debug\TestApplication.pdb

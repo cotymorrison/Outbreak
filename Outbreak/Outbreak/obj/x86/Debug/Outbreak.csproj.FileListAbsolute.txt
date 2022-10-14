@@ -1,0 +1,9 @@
+c:\users\abastion\documents\visual studio 2010\Projects\Outbreak\Outbreak\Outbreak\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\abastion\documents\visual studio 2010\Projects\Outbreak\Outbreak\Outbreak\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\abastion\documents\visual studio 2010\Projects\Outbreak\Outbreak\Outbreak\bin\x86\Debug\Content\smiley face.xnb
+c:\users\abastion\documents\visual studio 2010\Projects\Outbreak\Outbreak\Outbreak\bin\x86\Debug\Outbreak.exe
+c:\users\abastion\documents\visual studio 2010\Projects\Outbreak\Outbreak\Outbreak\bin\x86\Debug\Outbreak.pdb
+c:\users\abastion\documents\visual studio 2010\Projects\Outbreak\Outbreak\Outbreak\obj\x86\Debug\Outbreak.exe
+c:\users\abastion\documents\visual studio 2010\Projects\Outbreak\Outbreak\Outbreak\obj\x86\Debug\Outbreak.pdb
+c:\users\abastion\documents\visual studio 2010\Projects\Outbreak\Outbreak\Outbreak\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\Outbreak\Outbreak\bin\x86\Debug\Content\Zombie face.xnb

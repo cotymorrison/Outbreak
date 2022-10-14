@@ -1,0 +1,6 @@
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\OutbreakManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\OutbreakManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\OutbreakManager\bin\x86\Debug\OutbreakManager.dll
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\OutbreakManager\bin\x86\Debug\OutbreakManager.pdb
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\OutbreakManager\obj\x86\Debug\OutbreakManager.dll
+C:\Users\Abastion\Documents\Visual Studio 2010\Projects\Outbreak\OutbreakManager\obj\x86\Debug\OutbreakManager.pdb
